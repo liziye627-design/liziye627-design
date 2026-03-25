@@ -81,9 +81,9 @@ Social Deduction & Multi-Agent System
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liziye627-design&show_icons=true&theme=vue_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liziye627-design&theme=vue_dark&hide_border=true&layout=compact)
-![Trophy](https://github-profile-trophy.vercel.app/?username=liziye627-design&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&bg=2d333b)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liziye627-design&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liziye627-design&theme=dark&hide_border=true&layout=compact)
+![Trophy](https://github-profile-trophy.vercel.app/?username=liziye627-design&theme=dark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
 </div>
 
