@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zǐ yè (子夜)
+# Zǐ yè (子叶)
 
 **Electronic Engineer & AIGC Artist**
 
